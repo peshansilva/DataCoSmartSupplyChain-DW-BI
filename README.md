@@ -1,4 +1,4 @@
-# BikeShare Data Warehouse & Business Intelligence Solution
+# DataCo Smart Supply Chain Data Warehouse & Business Intelligence Solution
 
 ## Project Overview
 
